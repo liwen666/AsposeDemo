@@ -1,7 +1,7 @@
 -------------------------------
 cd ../AsposeDemo
 git init
-git remote add aspose git@github.com:louising/AsposeDemo.git
+git remote add origin git@github.com:louising/AsposeDemo.git
 git checkout -b dev
 -------------------------------
 
